@@ -1,0 +1,3 @@
+$(function () {
+	$('.s-select').simpleselect();
+})
